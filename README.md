@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/bd6cfd94-b930-4391-8d7e-8d2303ce9d40.svg?style=for-the-badge)](https://wakatime.com/@bd6cfd94-b930-4391-8d7e-8d2303ce9d40)
 
 <h1 align="center">Hi 👋, I'm Adeoye Tunmise</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate software developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeoyetunmise&label=Profile%20views&color=0e75b6&style=flat" alt="adeoyetunmise" /> </p>
 
